@@ -13,3 +13,4 @@
 |Louisville|Joshua Taylor|"Louisville, Kentucky, USA"||@louposh|contact@louposh.org|
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Romania|Sorin Pasa|"Bucharest, Romania"|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
+|GRPosh|[Thomas Malkewitz](https://dotps1.github.io)|Grand Rapids, Michigan, USA|https://grposh.github.io|[@grposh](https://twitter.com/grposh)|[grposh@outlook.com](mailto:grposh@outlook.com)|
